@@ -544,9 +544,9 @@ UI/UX에서도 처음에는 “보기에 예쁜 앱”을 목표로 피그마 �
 하지만 팀원들과 계속해서 소통하고 의견을 조율하면서 유연하게 대응하는 방법을 배울 수 있었습니다.
 
 웹의 비중이 매우 큰 프로젝트다 보니 해당 부분에 익숙하지 않아 개발에 어려움을 많이 느꼈으나 협력과 공부를 통해 기술적 어려움을 극복해 나가는 경험을 쌓을 수 있었고 이는 매우 의미있었다 생각합니다. 이번 경험은 저에게 성장할 수 있는 좋은 기회가 되었습니다.
-<img width="3047" height="2248" alt="image" src="https://github.com/user-attachments/assets/2907f39c-c99a-4cc3-9ca0-fc0fefeace20" />
 
 
 
 #### 비고
 본 프로젝트는 *대상(교육부장관상) : 2025 RISE 사업 참여 대학(원)생 우수사례 경진대회(RISE 문제해결 IDEA 경진대회 부문)* 를 수상하였습니다.	
+<img width="3047" height="2248" alt="image" src="https://github.com/user-attachments/assets/2907f39c-c99a-4cc3-9ca0-fc0fefeace20" />
