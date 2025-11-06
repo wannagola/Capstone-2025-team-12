@@ -548,5 +548,7 @@ UI/UX에서도 처음에는 “보기에 예쁜 앱”을 목표로 피그마 �
 
 
 #### 비고
+
 본 프로젝트는 *대상(교육부장관상) : 2025 RISE 사업 참여 대학(원)생 우수사례 경진대회(RISE 문제해결 IDEA 경진대회 부문)* 를 수상하였습니다.	
+
 <img width="3047" height="2248" alt="image" src="https://github.com/user-attachments/assets/2907f39c-c99a-4cc3-9ca0-fc0fefeace20" />
