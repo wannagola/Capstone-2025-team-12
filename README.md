@@ -487,6 +487,8 @@ export CLOVA_OCR_URL="clova ocr url"
 #### 6.2. 참고 링크
 
 > 시연 영상 :  [첫 눈 서비스 : 서비스 소개 및 시연 영상](https://youtu.be/B3Di2WLdcKs?si=VrBbPhaYu6xCzrxI)
+
+
 > 최종 보고서 : https://drive.google.com/file/d/1YhXG3rtfE6dERmfleboL4-_Rtg0dtG9A/view?usp=sharing
 
 ### 7. 팀 구성
