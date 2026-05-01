@@ -519,7 +519,7 @@ export CLOVA_OCR_URL="clova ocr url"
 - LLM API 연동
 - Front-end 개발
 
-#### 7.2. 팀원 별 참여 후기
+#### 7.2. 팀원 별 회고록
 
 > 성민기 (프론트엔드 FE / 기획 PM)
 
